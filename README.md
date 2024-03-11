@@ -1,1 +1,1 @@
-Deployment link: https://diabetesanalysis.streamlit.app/
+Deployment link: https://diabetesassignment.streamlit.app/
